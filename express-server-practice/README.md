@@ -1,1 +1,1 @@
-# Express Server using MVC, built using ExpressJS
+# Express Server using MVC
