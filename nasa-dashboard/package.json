@@ -1,5 +1,5 @@
 {
-    "name": "nasa-example-project",
+    "name": "nasa-dashboard-server",
     "version": "1.0.0",
     "description": "# Nasa Frontend, built using ReactJS",
     "main": "index.js",
