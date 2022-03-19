@@ -1,6 +1,6 @@
-# Nasa Backend, built using ExpressJS
+# Nasa Backend
 
-The backend cover the following topics
+The backend cover the following
 
 -   Follows MVC
 -   Middlewares
