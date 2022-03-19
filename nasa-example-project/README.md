@@ -3,8 +3,8 @@
 The backend cover the following
 
 -   Follows MVC
--   Middlewares
 -   Creating server
+-   Middlewares like morgan, mongoose, cors
 -   Creating APIs
 -   Creating versioning for APIs
 -   MongoDB Integration - CRUD
