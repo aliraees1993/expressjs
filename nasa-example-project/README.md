@@ -1,6 +1,6 @@
-# Nasa Backend
+# Nasa Server
 
-The backend cover the following
+The server covers the following
 
 -   Follows MVC
 -   Creating server
@@ -11,6 +11,6 @@ The backend cover the following
 -   Pagination
 -   SpaceX API
 
-# Nasa Frontend, built using ReactJS
+# Nasa Client, built using ReactJS
 
--   Frontend for connecting to the APIs and displaying the response
+-   Client for fetching the APIs and displaying the response
