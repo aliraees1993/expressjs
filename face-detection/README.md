@@ -4,7 +4,7 @@ The server covers the following
 
 -   Middlewares like cors
 -   Creating APIs
--   Postgre Integration
+-   Postgres Integration
 -   Clarifai API for face detection
 
 # Face Detection Client, built using ReactJS
